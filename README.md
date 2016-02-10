@@ -2,7 +2,6 @@
 
 A light/dark monocrome Emacs 24 theme.
 
-Based on minimal theme
 
 ## Screenshots
 
@@ -14,3 +13,6 @@ Based on minimal theme
 
 ![](https://github.com/fmeyer/photophobia-theme/raw/master/screenshots/photophobia-light.png)
 
+--- 
+
+Based on minimal theme
